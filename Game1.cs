@@ -8,7 +8,6 @@ namespace DA315A_Tower_Defense_V2
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        int gitnonsense = 1;
 
         public Game1()
         {
